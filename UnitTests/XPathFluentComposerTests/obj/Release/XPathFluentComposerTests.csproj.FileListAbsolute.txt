@@ -1,0 +1,9 @@
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\TestData\testfile1.xml
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\TestData\testfile2.xml
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\XPathFluentComposerTest.dll
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\XPathFluentComposerTest.pdb
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\XPathFluentComposer.dll
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\bin\Release\XPathFluentComposer.pdb
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\obj\Release\XPathFluentComposerTests.csprojResolveAssemblyReference.cache
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\obj\Release\XPathFluentComposerTest.dll
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\UnitTests\XPathFluentComposerTests\obj\Release\XPathFluentComposerTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\XPathFluentComposer\bin\Release\XPathFluentComposer.dll
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\XPathFluentComposer\bin\Release\XPathFluentComposer.pdb
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\XPathFluentComposer\obj\Release\XPathFluentComposer.csprojResolveAssemblyReference.cache
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\XPathFluentComposer\obj\Release\XPathFluentComposer.dll
+C:\Users\riccardo.portolan\Documents\GitHub\XPathFluentComposer\XPathFluentComposer\obj\Release\XPathFluentComposer.pdb
